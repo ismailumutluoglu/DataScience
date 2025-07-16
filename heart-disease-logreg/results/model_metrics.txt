@@ -1,0 +1,7 @@
+
+Model: Logistic Regression
+
+Accuracy : 0.90
+Precision: 0.93
+Recall   : 0.88
+F1-Score : 0.90
